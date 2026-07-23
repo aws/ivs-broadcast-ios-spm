@@ -24,7 +24,7 @@ Add this package to your Xcode project:
    - **AmazonIVSBroadcast** — Broadcast SDK
    - **AmazonIVSBroadcastStages** — Broadcast SDK with real-time streaming support
 
-   > **Note:** `AmazonIVSBroadcastStages` includes all features of `AmazonIVSBroadcast`. It is not possible to integrate both in the same project.
+  > **Note:** `AmazonIVSBroadcastStages` includes all features of `AmazonIVSBroadcast`. It is not possible to integrate both in the same project.
 
 Or add it to your `Package.swift`:
 
