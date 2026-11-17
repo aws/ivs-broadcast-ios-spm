@@ -4,7 +4,7 @@ This repository contains the [Swift Package Manager](https://www.swift.org/docum
 
 ## Requirements
 
-- iOS 14.0+
+- iOS 15.0+
 - Xcode 15.0+
 
 ## Installation
